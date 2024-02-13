@@ -1,23 +1,14 @@
 # Personal website of Adam Landry
 
 ## Education
-
-- Physics, PhD
-- University of Toronto, Toronto, Canada
-- May 2009
-
-- Physics, M.S.
-- University of Toronto, Toronto, Canada
-- May 2005
-
-- Physics, B.S.
-- University of Toronto, Toronto, Canada
-- May 2003
+- Ph.D., Physics | University of Toronto (_May 2023_)								       		
+- M.S., Physics	| University of Toronto (_December 2019_)	 			        		
+- B.S., Physics | University of Toronto (_May 2017_)
 
 ## Work Experience
 
-### Associate Professor of Physics
-**South Puget Sound Community College, Anytown, USA**
+### Assistant Professor of Physics
+**South Puget Sound Community College, Olympia, WA, USA**
 _(August 2023 - Present)_
 
 - Teach introductory courses in classical mechanics and electromagnetism.
@@ -26,7 +17,7 @@ _(August 2023 - Present)_
 
 ### Research Associate
 **University of Toronto, Toronto, Canada**
-_(June 2005 - July 2023)_
+_(June 2019 - July 2023)_
 
 - Conducted research in theoretical and computational physics, focusing on cosmology.
 - Published research papers in peer-reviewed journals and presented findings at international conferences.
@@ -48,7 +39,6 @@ _(June 2005 - July 2023)_
 - Organized outreach events to inspire interest in astronomy among K-12 students and the general public.
 - Developed interactive demonstrations and immersive experiences to convey complex astronomical concepts.
 - Collaborated with schools, planetariums, and science centers to foster a deeper understanding of the universe and encourage STEM engagement.
-
 
 ## Technical Skills
 
